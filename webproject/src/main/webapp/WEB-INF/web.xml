@@ -3,7 +3,7 @@
   <display-name>webproject</display-name>
 <servlet>
 <servlet-name>main</servlet-name>
-<servlet-class>webproject.mail</servlet-class>
+<servlet-class>webproject.main</servlet-class>
 </servlet>
 <servlet-mapping>
 <servlet-name>main</servlet-name>
